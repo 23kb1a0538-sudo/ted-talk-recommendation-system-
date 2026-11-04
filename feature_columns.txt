@@ -1,0 +1,8 @@
+title
+description
+tags
+main_speaker
+duration
+views
+comments
+transcript
